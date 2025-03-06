@@ -15,7 +15,7 @@ void setup() {
 
 void loop() {
   // step one step:
-  myStepper.step(3);
+  myStepper.step(5.5);
   // Serial.print("steps:");
   // Serial.println(stepCount);
   // stepCount++;
